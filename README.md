@@ -5,11 +5,11 @@
 - 📫 riccardo98.poli@gmail.com
 
 Projects - Collaborations:
-- Unige, MeetingTool.
-- Unige, Educational Data Visualization.
-- Unige, Edurell...
-- Unige, Incognito Algorithm...
-- Ego, RulexProjectManager...
+- Unige, MeetingTool, App for conference meetings.
+- Unige, Educational Data Visualization, Data Visualization.
+- Unige, Edurell, Automatic Video Annotations, Semantic Web.
+- Unige, Incognito Algorithm, Data Privacy.
+- Ego, RulexProjectManager, Rulex Dashboard.
 
 <!---
 RickPoli/RickPoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
