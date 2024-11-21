@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Riccardo Poli - @RickPoli
 - 👀 I’m interested in Machine Learning, AI and Software Development
 - 👨‍🎓 I completed my master's degree studies in Computer Engineering - Artificial Intelligence and Human Centered Computing - Unige
-- 👨‍💼 I work as Full-stack Data Scientist and AI Data Engineer for EgoData
+- 👨‍💼 I work as Full-stack Data Scientist and Optimization Engineer for EgoData (Shell)
 - 🤝 I’m looking to collaborate on some project development
 - 📫 riccardo98.poli@gmail.com, https://www.linkedin.com/in/-riccardo-poli/
 
