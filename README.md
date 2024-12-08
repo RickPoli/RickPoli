@@ -11,6 +11,7 @@ Archiements, projects and collaborations:
 - 2021 Unige: "Edurell", automatic video annotations with NLP techiques.
 - 2021 EgoData: "RulexProjectManager", Rulex dashboard.
 - 2022 Unige + EgoData: MS thesis: "Artificial intelligence techniques to solve the sort-term Hydro generation scheduling problem".
+- 2024 : https://www.kaggle.com/code/rickpoli/genetic-algorithms-travel-salesman-problem
 - 2023> Ego: Full-stack Data Scientist, Battery Energy Storage Systems and Operation Research.
 
 <!---
