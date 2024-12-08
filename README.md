@@ -5,13 +5,13 @@
 - 🤝 I’m looking to collaborate on some project development
 - 📫 riccardo98.poli@gmail.com, https://www.linkedin.com/in/-riccardo-poli/, https://www.kaggle.com/rickpoli
 
-Archiements, projects and collaborations:
+Achievements, projects and collaborations:
 - 2020 Unige: "MeetingTool", an Android App for conference meetings.
 - 2021 Unige: Website for the visualization of educational data.
 - 2021 Unige: "Edurell", automatic video annotations with NLP techiques.
 - 2021 EgoData: "RulexProjectManager", Rulex dashboard.
 - 2022 Unige + EgoData: MS thesis: "Artificial intelligence techniques to solve the sort-term Hydro generation scheduling problem".
-- 2024 : https://www.kaggle.com/code/rickpoli/genetic-algorithms-travel-salesman-problem
+- 2024 | https://www.kaggle.com/code/rickpoli/genetic-algorithms-travel-salesman-problem
 - 2023> Ego: Full-stack Data Scientist, Battery Energy Storage Systems and Operation Research.
 
 <!---
