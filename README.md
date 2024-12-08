@@ -3,7 +3,7 @@
 - 👨‍🎓 I completed my master's degree studies in Computer Engineering - Artificial Intelligence and Human Centered Computing - Unige
 - 👨‍💼 I work as Full-stack Data Scientist and Optimization Engineer for EgoData (Shell)
 - 🤝 I’m looking to collaborate on some project development
-- 📫 riccardo98.poli@gmail.com, https://www.linkedin.com/in/-riccardo-poli/
+- 📫 riccardo98.poli@gmail.com, https://www.linkedin.com/in/-riccardo-poli/, https://www.kaggle.com/rickpoli
 
 Archiements, projects and collaborations:
 - 2020 Unige: "MeetingTool", an Android App for conference meetings.
